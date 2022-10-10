@@ -274,4 +274,25 @@ input:focus {
     align-items: center;
     margin-left: 10%;
   }
+  .info {
+    margin-right: 300px;
+  }
+  .container-map {
+    display: grid;
+    margin-right: 5%;
+    margin-bottom: 4%;
+  }
+  footer {
+    height: 1000px;
+    width: 100%;
+  }
+  .form-row {
+    width: 300px;
+    margin-left: 20px;
+    font-family: "BPG Arial Caps", sans-serif;
+  }
+  iframe {
+    width: 300px;
+    height: 180px;
+  }
 }
